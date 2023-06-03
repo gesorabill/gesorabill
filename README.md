@@ -8,6 +8,7 @@ As an experienced data analyst with six years in the field, I possess a comprehe
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [gesorabill@gmail.com](mailto:gesorabill@gmail.com)
+* 🚀  I'm currently working on Data Migration projects
 * 🧠  I'm learning <to\_update>
 * 🤝  I'm open to collaborating on everything data related
 
