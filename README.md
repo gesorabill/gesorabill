@@ -1,19 +1,23 @@
 ![MasterHead](https://github.com/gesorabill/gesorabill/blob/main/GIFs/profile_banner.gif?raw=true)
 
-# Bill Gesora (BG) 👋
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bill Gesora
 
-Senior Data Analyst | Data Enthusiast | SQL | Python | R | JS
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Analytics+Engineer+%26+Data+Analyst;Reports+Dev+%26+Power+BI+specialist;Nice+to+meet+you+....)](https://git.io/typing-svg)
+
+A little more about me ...
 -------------------------------------------------------------
 
-As an experienced data analyst with six years in the field, I possess a comprehensive skill set in collecting, cleaning, and analyzing large and diverse datasets. I am proficient in using analytical tools, programming languages, and statistical techniques. I excel in data visualization and storytelling, transforming complex information into compelling visualizations and reports. With a problem-solving mindset and a knack for identifying patterns and trends, I collaborate effectively with cross-functional teams to provide actionable insights and drive business growth. I am a detail-oriented professional who communicates complex findings to both technical and non-technical stakeholders.
+I am an experienced data analyst with 6+ years in the field. Over the years I acquired skills in collecting, cleaning, and analyzing large and diverse datasets from across different disciplines and stored in different formats. My greates strength is in dara visualization and storytelling. By leveraging analytical tools and technologies I transform complex complex information into compelling visualizations and reports.
+
+My educational background coupled with the industry experience I have gained empowers me with a problem-solving mindset and a knack for identifying patterns and trends. Feel free to reach out and we can have a deeper conversation on anything data.
 
 <img align="right" alt="Coding" width="400" src="https://github.com/gesorabill/gesorabill/blob/main/GIFs/coding_gif_2.gif?raw=true">
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [gesorabill@gmail.com](mailto:gesorabill@gmail.com)
-* 🚀  I'm currently working on Data Migration projects
-* 🧠  I'm learning build WEB3 apps
-* 🤝  I'm open to collaborating on everything data related
+* 🌍  I'm based in Nairobi, Kenya.
+* ✉️  You can contact me at [gesorabill@gmail.com](mailto:gesorabill@gmail.com).
+* 🚀  I'm currently working on Data Migration projects.
+* 🧠  I'm currently learning to build WEB3 apps and understanding the whole concept behind smart contracts.
+* 🤝  I'm open to collaborating on everything data related.
 
 ### Skills
 
