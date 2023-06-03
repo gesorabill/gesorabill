@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/gesorabill/gesorabill/blob/main/GIFs/profile_banner.gif?raw=true)
+
 Hi 👋 My name is Bill Gesora
 ============================
 
@@ -5,6 +7,8 @@ Senior Data Analyst | Data Enthusiast | SQL | Python | R | JS
 -------------------------------------------------------------
 
 As an experienced data analyst with six years in the field, I possess a comprehensive skill set in collecting, cleaning, and analyzing large and diverse datasets. I am proficient in using analytical tools, programming languages, and statistical techniques. I excel in data visualization and storytelling, transforming complex information into compelling visualizations and reports. With a problem-solving mindset and a knack for identifying patterns and trends, I collaborate effectively with cross-functional teams to provide actionable insights and drive business growth. I am a detail-oriented professional who communicates complex findings to both technical and non-technical stakeholders.
+
+<img align="right" alt="Coding" width="400" src="https://github.com/gesorabill/gesorabill/blob/main/GIFs/coding_gif_2.gif?raw=true">
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [gesorabill@gmail.com](mailto:gesorabill@gmail.com)
