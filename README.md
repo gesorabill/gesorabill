@@ -1,7 +1,6 @@
 ![MasterHead](https://github.com/gesorabill/gesorabill/blob/main/GIFs/profile_banner.gif?raw=true)
 
-Hi 👋 My name is Bill Gesora
-============================
+# Bill Gesora (BG) 👋
 
 Senior Data Analyst | Data Enthusiast | SQL | Python | R | JS
 -------------------------------------------------------------
